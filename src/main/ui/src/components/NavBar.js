@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { NavLink as RouterNavLink } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
+
 import {
   Collapse,
   Container,
@@ -65,6 +66,18 @@ const NavBar = () => {
                   </NavLink>
                 </NavItem>
               )}
+              {isAuthenticated && (
+                             <NavItem>
+                               <NavLink
+                                 tag={RouterNavLink}
+                                 to="/newtask"
+                                 exact
+                                 activeClassName="router-link-exact-active"
+                               >
+                                 Task Form
+                               </NavLink>
+                             </NavItem>
+                           )}
             </Nav>
             <Nav className="d-none d-md-block" navbar>
               {!isAuthenticated && (

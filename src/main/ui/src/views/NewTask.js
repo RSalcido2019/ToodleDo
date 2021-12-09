@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { axios } from 'axios';
 
 export default function NewTask(props) {
 
@@ -26,6 +27,14 @@ export default function NewTask(props) {
     e.preventDefault();
     // prevents refresh in all browsers
     alert(`Reminder Submitted ${input.taskName} #${input.datetime}`);
+    console.clear();
+      let sms = { phoneNumber: "7738089715",  message: "text from judy's browser" };
+      axios.defaults.headers.post['Access-Control-Allow-Origin'] = '*';
+      axios.post('http://127.0.0.1:8080/api/v1/sms', sms)
+            .then(res => {
+              console.log(res);
+              console.log(res.data);
+            })
 
     setMessage("New task added :)");
   }

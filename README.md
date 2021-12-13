@@ -2,7 +2,7 @@
 # 2nd Place Winner in Verizon Hackathon
 
 
-# TEAM: TWILIO TECH TITANS                                   
+# Team Name: TWILIO TECH TITANS                                   
       
 # App Name: TOODLEDO 
 

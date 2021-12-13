@@ -1,12 +1,12 @@
 
-2nd Place Winner in Verizon Hackathon
+# 2nd Place Winner in Verizon Hackathon
 
 
-TEAM: TWILIO TECH TITANS                                   
+# TEAM: TWILIO TECH TITANS                                   
       
-App: TOODLEDO 
+# App Name: TOODLEDO 
 
-After cloning, need to add files that are in gitignore:
+After cloning or forking the repo, add the following files. These files will contain information unique to your Twilio Account. 
 ```
 In src/main, create new folder named resources, inside of that add application.yml
 In src/main/ui, add api-server.js

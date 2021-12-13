@@ -36,6 +36,7 @@ useEffect(() => {
     alert(`Reminder Added : ${input.taskName} `);
   setTaskList(taskList.concat(input));
     console.clear();
+
     let sms = { phoneNumber: "ENTER YOUR CELL NUMBER HERE",  message: input.description };
     axios.defaults.headers.post['Access-Control-Allow-Origin'] = '*';
     // THIS WAS CHANGED FROM HTTP://LOCALHOST:3000/API/V1/SMS TO BYPASS WORK PC CONFIG

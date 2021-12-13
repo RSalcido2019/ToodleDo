@@ -2,9 +2,9 @@
 # 2nd Place Winner in Verizon Hackathon
 
 
-# Team Name: TWILIO TECH TITANS                                   
+# Team Name: Twilio Tech Titans                                   
       
-# App Name: TOODLEDO 
+# App Name: ToodleDo 
 
 After cloning or forking the repo, add the following files. These files will contain information unique to your Twilio Account. 
 ```

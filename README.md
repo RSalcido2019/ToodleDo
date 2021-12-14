@@ -1,5 +1,9 @@
-
-# 2nd Place Winner in Verizon Hackathon
+<img
+src=“TwilioTechTitans.png”
+raw=true
+alt=“Second_Place_Winner”
+style=“margin-right: 10px;”
+/>
 
 
 # Team Name: Twilio Tech Titans

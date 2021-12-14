@@ -2,8 +2,17 @@
 # 2nd Place Winner in Verizon Hackathon
 
 
-# Team Name: Twilio Tech Titans                                   
-      
+# Team Name: Twilio Tech Titans
+
+Creators: 
+```
+ Afreen Safdar    GitHub: https://github.com/afreensafdar
+ Judith Liem      GitHub: https://github.com/jjliem
+ Mushfika Raisa   GitHub: https://github.com/mushfikaraisa
+ Ricardo Salcido  GitHub: https://github.com/RSalcido2019
+ Saleem Raes      GitHub: https://github.com/saleem2007        
+          
+```      
 # App Name: ToodleDo 
 
 After cloning or forking the repo, add the following files. These files will contain information unique to your Twilio Account. 

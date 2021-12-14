@@ -1,9 +1,5 @@
-<img
-src=“TwilioTechTitans.png”
-raw=true
-alt=“Second_Place_Winner”
-style=“margin-right: 10px;”
-/>
+
+<img width="964" height="615" alt="Second_Place" src="https://github.com/RSalcido2019/ToodleDo/blob/main/src/main/ui/src/assets/TwilioTechTitans%20.png">
 
 
 # Team Name: Twilio Tech Titans

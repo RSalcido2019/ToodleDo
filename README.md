@@ -1,5 +1,5 @@
 
-<img width="964" height="615" alt="Second_Place" src="https://github.com/RSalcido2019/ToodleDo/blob/main/src/main/ui/src/assets/TwilioTechTitans%20.png">
+<img width="1100" height="775" alt="Second_Place" src="https://github.com/RSalcido2019/ToodleDo/blob/main/src/main/ui/src/assets/TwilioTechTitans.JPG">
 
 
 # Team Name: Twilio Tech Titans
